@@ -8,6 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "google-cloud": "^0.54.0",
+    "lodash": "^4.17.4",
     "node-record-lpcm16": "^0.3.0"
   }
 }
