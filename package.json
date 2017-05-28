@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/ChuckJHardy/SpeechToGlossary",
   "author": "Chuck J Hardy <chuck@generalassemb.ly>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "google-cloud": "^0.54.0",
+    "node-record-lpcm16": "^0.3.0"
+  }
 }
