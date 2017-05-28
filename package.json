@@ -1,0 +1,9 @@
+{
+  "name": "SpeechToGlossary",
+  "version": "1.0.0",
+  "description": "An Instructor is teaching a class. As they speak Students are automatically, with a minor delay presented with the explanations and resources for specific terms that were mentioned.",
+  "main": "index.js",
+  "repository": "https://github.com/ChuckJHardy/SpeechToGlossary",
+  "author": "Chuck J Hardy <chuck@generalassemb.ly>",
+  "license": "MIT"
+}
